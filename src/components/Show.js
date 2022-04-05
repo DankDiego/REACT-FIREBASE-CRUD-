@@ -60,14 +60,14 @@ const Show = () => {
       <div className='row'>
         <div className='col'>
           <div className="d-grid gap-2">
-            <Link to="/create" className='btn btn-secondary mt-2 mb-2'>REGISTRAR PRODUCTO</Link>    
+            <Link to="/create" className='btn btn-secondary mt-2 mb-2'>REGISTRAR PRODUCTO.</Link>    
           </div>
           <table className='table table-dark table-hover'>
             <thead>
               <tr>
                 <th>Descripcion</th>
                 <th>Unidades</th>
-                <th>Acciones</th>
+                <th>Acciones:</th>
               </tr>
             </thead>
             <tbody>
